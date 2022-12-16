@@ -7,4 +7,5 @@ funcB: BBB222
 funcC: CCC333333
 funcD: DDD444
 funcE: EEE555
-
+funcF: FFF
+funcG: GGG
