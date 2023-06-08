@@ -16,3 +16,4 @@ funcH: HHH
 funcI: III
 funcJ: JJJ
 funcK: KKK
+funcL: LLL
